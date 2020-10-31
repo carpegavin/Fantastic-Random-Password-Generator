@@ -1,4 +1,13 @@
 # Random-Password-Generator
 ## https://carpegavin.github.io/Random-Password-Generator/
 
-## the goal of this project was to create a random password generator to meet certain criteria in order to protect an employee's sensitive data.
+## The goal of this project was to create a random password generator to meet certain criteria in order to protect an employee's sensitive data.
+
+## The acceptance criteria are as follows:
+1. when the user clicks the generate password button, they are prompted to enter several differnet variables to create said password, to include:
+  a. length to be between 8 and 128 characters
+  b. lowercase characters
+  c. uppercase
+  d. special symbols
+  
+2. 
