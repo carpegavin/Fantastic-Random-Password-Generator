@@ -31,4 +31,4 @@
 
 © copyright 2020 Gavin H Phill
 
-contributer(s) Jared Ackley https://github.com/jrod3323
+- Contributer(s) Jared Ackley https://github.com/jrod3323
