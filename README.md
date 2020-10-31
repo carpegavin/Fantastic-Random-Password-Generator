@@ -5,9 +5,9 @@
 
 ## The acceptance criteria are as follows:
 1. when the user clicks the generate password button, they are prompted to enter several differnet variables to create said password, to include:
-  a. length to be between 8 and 128 characters
-  b. lowercase characters
-  c. uppercase
-  d. special symbols
+  * length to be between 8 and 128 characters
+  * lowercase characters
+  * uppercase
+  * special symbols
   
 2. 
