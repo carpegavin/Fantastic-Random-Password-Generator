@@ -57,13 +57,13 @@ function generatePassword() {
   var index = Math.floor(Math.random()*passwordCharacters.length);
   finalPassword = finalPassword+passwordCharacters[index];
   console.log (index);
-  
-};
 
-console.log (passwordCharacters.length);
+  
+  
+}
 
 document.querySelector("#password").value = finalPassword;
-console.log(finalPassword);
+alert ("Click OK for your new ULTRA secure password! \nI knew you could do it, champ!");
 }
 
 generateBtn.addEventListener("click", writePassword);
