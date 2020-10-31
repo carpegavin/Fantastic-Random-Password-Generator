@@ -29,6 +29,6 @@
 ## Result: A working random password generator. Boom.
 
 
-copyright 2020 Gavin H Phill
+© copyright 2020 Gavin H Phill
 
 contributer(s) Jared Ackley https://github.com/jrod3323
