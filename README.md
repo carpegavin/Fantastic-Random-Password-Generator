@@ -27,3 +27,8 @@
  9. cleaned the code -- removed the dead comments; removed the many console logs; checked for grammar issues.
  
 ## Result: A working random password generator. Boom.
+
+
+copyright Gavin H Phill
+
+contributer(s) Jared Ackley https://github.com/jrod3323
