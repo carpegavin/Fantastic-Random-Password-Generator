@@ -18,10 +18,12 @@
  1. set my query selectors and eventlistener
  2. set my five variables for length, lowercase, uppercase, numbers, symbols
   * At first I attempted charCode but ended up pulling out of split arrays
- 2.5 set my confirm and alert messages
- 3. sey my assignments and operators
- 4. set my "if" logic
- 5. set my "for" loops
- 6. pushed my variables to the "for: loops
- 7. floored and randomized passwordLength
- 8. cleaned the code -- removed the dead comments; removed the many console logs; checked for grammar issues.
+ 3 set my confirm and alert messages
+ 4. sey my assignments and operators
+ 5. set my "if" logic
+ 6. set my "for" loops
+ 7. pushed my variables to the "for: loops
+ 8. floored and randomized passwordLength
+ 9. cleaned the code -- removed the dead comments; removed the many console logs; checked for grammar issues.
+ 
+## Result: A working random password generator. Boom.
