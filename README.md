@@ -17,7 +17,7 @@
 ## To accomplish this goal I did the following:
  1. set my query selectors and eventlistener
  2. set my five variables for length, lowercase, uppercase, numbers, symbols
-  * At first I attempted charCode but ended up pulling out of split arrays
+    * At first I attempted charCode but ended up pulling out of split arrays
  3 set my confirm and alert messages
  4. sey my assignments and operators
  5. set my "if" logic
