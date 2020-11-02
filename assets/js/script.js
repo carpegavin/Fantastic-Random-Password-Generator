@@ -58,8 +58,6 @@ function generatePassword() {
   finalPassword = finalPassword+passwordCharacters[index];
   console.log (index);
 
-  
-  
 }
 
 document.querySelector("#password").value = finalPassword;
