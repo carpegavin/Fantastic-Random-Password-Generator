@@ -22,7 +22,7 @@
  4. sey my assignments and operators
  5. set my "if" logic
  6. set my "for" loops
- 7. pushed my variables to the "for: loops
+ 7. pushed my variables to the "for" loops
  8. floored and randomized passwordLength
  9. cleaned the code -- removed the dead comments; removed the many console logs; checked for grammar issues.
  
