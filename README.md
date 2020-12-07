@@ -28,6 +28,8 @@
  
 ## Result: A working random password generator. Boom.
 
+https://github.com/carpegavin/Fantastic-Random-Password-Generator/blob/main/assets/img/passGen.png?raw=true
+
 
 © copyright 2020 Gavin H Phill
 
