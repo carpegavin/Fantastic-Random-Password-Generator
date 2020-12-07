@@ -28,7 +28,7 @@
  
 ## Result: A working random password generator. Boom.
 
-![passGen](https://github.com/carpegavin/Fantastic-Random-Password-Generator/blob/main/assets/img/passGen.png?raw=true)
+![passGen](https://github.com/carpegavin/Fantastic-Random-Password-Generator/blob/main/assets/img/passGIF.gif?raw=true)
 
 
 © copyright 2020 Gavin H Phill
